@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    background-color: rgb(80, 80, 80);
+    color: white;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+section {
+    float: left
+}
